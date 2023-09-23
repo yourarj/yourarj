@@ -13,9 +13,9 @@ I love working with
 <table align="center" style="width: 100%; background-color: rgba(255, 255, 255, .10);">
   <tr>
     <td style="width: 50%"> 
-        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="assets/rust-logo-blk.svg" alt="rust" width="20" height="40"/> </a> 
+        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="assets/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-        <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="assets/solidity-logo.svg" alt="spring" width="40" height="40"/> </a> 
+        <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="assets/solidity-logo.svg" alt="spring" height="40"/> </a> 
     </td>
     <td>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
