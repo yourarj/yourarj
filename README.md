@@ -13,7 +13,7 @@ I love working with
 <table align="center" style="width: 100%; background-color: rgba(255, 255, 255, .10);">
   <tr>
     <td style="width: 50%"> 
-        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="assets/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="spring" width="40" height="40"/> </a> 
     </td>
@@ -28,7 +28,7 @@ I love working with
   </tr>
     <tr>
     <td> 
-      <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/eth-diamond-black.svg" alt="aws" width="40" height="40"/> </a> 
+      <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/eth-diamond-purple.svg" alt="aws" width="40" height="40"/> </a> 
       <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"> <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="aws" width="40" height="40"/> </a> 
       <a href="https://hardhat.org/" target="_blank" rel="noreferrer" style="padding: 10px"> <img src="assets/hardhat-logo.svg" alt="hardhat" width="40" height="40" style="object-fit: none; object-position: 0px 0px;"/> </a> 
       <a href="https://www.polkadot.network/" target="_blank" rel="noreferrer"> <img src="assets/polkadot-logo.svg" alt="polkadat" width="40" height="40" /> </a> 
