@@ -90,7 +90,7 @@ I love working with
   </tr>
 <table>  
 
-<h3 align= "center">Let's talk</h3>
+<h3 align= "center">Let's get in touch</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shindearjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shindearjun" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4960784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4960784" height="30" width="40" /></a>
